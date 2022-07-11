@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 ### `npm install --force`
 
-This project uses React 18 and Material UI v5, the last one does not officially support React 18 but don't warry, it works fine and will be supported eventually.
+This project uses React 18 and Material UI v5, the last one does not officially support React 18 but don't worry, it works fine and will be supported eventually.
 
 ### `npm start`
 
