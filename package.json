@@ -1,0 +1,56 @@
+{
+	"name": "react-material-admin-dashboard",
+	"author": "goto3",
+	"licence": "MIT",
+	"version": "1.0",
+	"private": false,
+	"dependencies": {
+		"@emotion/cache": "^11.9.3",
+		"@emotion/react": "^11.9.3",
+		"@emotion/server": "^11.4.0",
+		"@emotion/styled": "^11.9.3",
+		"@mui/icons-material": "^5.8.4",
+		"@mui/lab": "^5.0.0-alpha.89",
+		"@mui/material": "^5.8.7",
+		"@mui/styles": "^5.8.7",
+		"chart.js": "^3.8.0",
+		"date-fns": "^2.28.0",
+		"formik": "^2.2.9",
+		"history": "^5.3.0",
+		"nprogress": "^0.2.0",
+		"prop-types": "^15.8.1",
+		"react": "^18.2.0",
+		"react-chartjs-2": "^4.2.0",
+		"react-dom": "^18.2.0",
+		"react-helmet": "^6.1.0",
+		"react-perfect-scrollbar": "^1.5.8",
+		"react-router-dom": "^6.3.0",
+		"react-scripts": "^5.0.1",
+		"uuid": "^8.3.2",
+		"yup": "^0.32.11"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	}
+}
